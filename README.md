@@ -1,2 +1,2 @@
-# BIRTHDAY
-for class purposes
+# BIRTHDAY-LIST
+only for class purposes
